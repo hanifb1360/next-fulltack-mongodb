@@ -26,6 +26,13 @@ a {
     --softTextColor:#a6a6a6;
 
 }
+.light{
+    --bg: #ddd;
+    --textColor:#0f172a;
+    --softBg:#ddd;
+    --softTextColor:#242424;
+
+}
 .container {
     min-height: 100vh;
     background-color: var(--bg);
@@ -33,7 +40,7 @@ a {
 }
 
 .wrapper {
-    max-width: 80%;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
     
